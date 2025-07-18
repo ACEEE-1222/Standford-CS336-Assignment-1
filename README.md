@@ -1,3 +1,7 @@
+**This repository contains the code and materials for CS336 Assignment 1 (Basics), covering the tasks from the first six chapters. The main focus is on building a basic Transformer language model (Transformer LM) and training it.**
+
+**Feel free to use and study this material!**
+
 # CS336 Spring 2025 Assignment 1: Basics
 
 For a full description of the assignment, see the assignment handout at
